@@ -1,0 +1,41 @@
+.body {
+    background-color: aliceblue;
+}
+
+.navbar-brand img {
+    width: 150px;
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    margin-top: 30px;
+}
+footer ul li {
+    list-style: none;
+    font-size: 20px;
+}
+
+footer ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.chat{
+    position: fixed;
+    bottom: 30px;
+    background-color: green;
+    width: 165px;
+    padding: 5px;
+    right: 20px;
+}
+
+.chat a{
+    color: #fff;
+}
+
+p{
+    font-size: 23px; 
+    line-height: 1.6
+}
